@@ -1,0 +1,12 @@
+# préparation du dataset 
+
+1- Téléchargeons toutes les données pour tous les pays : 
+
+- j'ai écrit un script qui télécharge les données de tous les pays et j'ai obtenu un folder contenant 217 dossiers 
+- En suite j'ai créé un autre script permettant de regrouper ces fichiers .csv en un seul fichier de 217 observations, pour cela j'ai :
+
+                * 
+
+2 - Regroupons les différents fichiers en un seul : intégration 
+
+Le fichier préfixe Metadata_Indicator_API_ : 
